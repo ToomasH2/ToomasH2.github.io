@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:ToomasH2/.github.io/ToomasH2.github.io%20%20/static/css/main.d0c5e82d.css",
+    "main.js": "/http//:ToomasH2/.github.io/ToomasH2.github.io%20%20/static/js/main.612fcf01.js",
+    "index.html": "/http//:ToomasH2/.github.io/ToomasH2.github.io%20%20/index.html",
+    "main.d0c5e82d.css.map": "/http//:ToomasH2/.github.io/ToomasH2.github.io%20%20/static/css/main.d0c5e82d.css.map",
+    "main.612fcf01.js.map": "/http//:ToomasH2/.github.io/ToomasH2.github.io%20%20/static/js/main.612fcf01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c5e82d.css",
+    "static/js/main.612fcf01.js"
+  ]
+}
